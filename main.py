@@ -1,3 +1,2 @@
-name= "Muthu"
-age=19
-print(f"My Name is {name},and my age is {age}")
+print(" ")
+print("\n")
